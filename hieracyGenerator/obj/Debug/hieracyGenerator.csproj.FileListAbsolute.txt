@@ -1,0 +1,14 @@
+C:\Program Files\C#\Desktop\hieracyGenerator\bin\Debug\hieracyGenerator.exe.config
+C:\Program Files\C#\Desktop\hieracyGenerator\bin\Debug\hieracyGenerator.exe
+C:\Program Files\C#\Desktop\hieracyGenerator\bin\Debug\hieracyGenerator.pdb
+C:\Program Files\C#\Desktop\hieracyGenerator\bin\Debug\FontAwesome.Sharp.dll
+C:\Program Files\C#\Desktop\hieracyGenerator\obj\Debug\hieracyGenerator.csprojAssemblyReference.cache
+C:\Program Files\C#\Desktop\hieracyGenerator\obj\Debug\hieracyGenerator.Form1.resources
+C:\Program Files\C#\Desktop\hieracyGenerator\obj\Debug\hieracyGenerator.Properties.Resources.resources
+C:\Program Files\C#\Desktop\hieracyGenerator\obj\Debug\hieracyGenerator.csproj.GenerateResource.cache
+C:\Program Files\C#\Desktop\hieracyGenerator\obj\Debug\hieracyGenerator.csproj.CoreCompileInputs.cache
+C:\Program Files\C#\Desktop\hieracyGenerator\obj\Debug\hieracyGenerator.csproj.CopyComplete
+C:\Program Files\C#\Desktop\hieracyGenerator\obj\Debug\hieracyGenerator.exe
+C:\Program Files\C#\Desktop\hieracyGenerator\obj\Debug\hieracyGenerator.pdb
+C:\Program Files\C#\Desktop\hieracyGenerator\obj\Debug\hieracyGenerator.forms.MENU.resources
+C:\Program Files\C#\Desktop\hieracyGenerator\obj\Debug\hieracyGenerator.forms.Login.resources
